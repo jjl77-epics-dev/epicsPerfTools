@@ -1,0 +1,2 @@
+# SNL programs or functions to be invoked from iocsh
+registrar(perftools_register)
